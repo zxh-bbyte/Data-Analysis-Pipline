@@ -1,6 +1,6 @@
 # Data Analysis Pipeline
 
-A small pipeline for processing datas.
+A small pipeline for processing data.
 
 ## Overview
 
