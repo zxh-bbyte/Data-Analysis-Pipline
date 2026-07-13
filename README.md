@@ -1,13 +1,6 @@
-# sp-ICP-TOF-MS Data Analysis Pipeline
+# Data Analysis Pipeline
 
-A small pipeline for processing single-particle ICP-TOF-MS (sp-ICP-TOF-MS) exports.
-It extracts per-measurement particle tables, classifies particles into fingerprint
-(FP) fraction classes, computes particle number concentrations (PNC), and produces
-several summary workbooks for downstream interpretation.
-
-> A Chinese manual is available in [`README_使用手册.md`](README_使用手册.md).
-
----
+A small pipeline for processing datas.
 
 ## Overview
 
